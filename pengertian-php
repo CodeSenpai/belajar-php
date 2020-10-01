@@ -1,3 +1,14 @@
 PHP merupakan akronim dari kata Hypertext Preprocessor. Pada awal kemunculannya pada 1994, ia merupakan script yang berada pada server dan menyatu dengan HTML alias HyperText Markup Language. Jika fungsi HTML adalah membuat tampilan di website, maka PHP juga membuat tampilan, tetapi bentuknya lebih khusus karena memuat data secara dinamis.
 
 PHP telah mengalami perkembangan pesat. Hal ini ditandai dengan rilisnya ragam versi PHP serta banyaknya PHP Framework yang dikembangkan, seperti Laravel, Yii, CodeIgniter, dan lain-lain. Untuk bisa memahami PHP, ada baiknya juga kamu memahami HTML. Hal Ini disebabkan karena PHP akan disisipkan di antara coding HTML. Maka dari itu, penting untuk mempelajari coding dasar HTML agar memudahkan mengelola PHP.
+
+
+
+# TEORI DASAR PHP
+Telah dijelaskan bahwa PHP merupakan bahasa server-side scripting yang menyatu dengan HTML. Kolaborasi ini akan membuat halaman web tampil dinamis sesuai keinginan dan kebutuhan. Jadi ketika seseorang mengakses suatu website, maka server akan memproses semua perintah PHP dan mengirimkan formatnya ke dalam bentuk HTML. Kode-kode tersebut tentu saja tidak akan unjuk gigi di depan layar. Mereka bermain di balik layar (dikelola oleh administrator web), sehingga menghasilkan tampilan web, baik berupa gambar, animasi maupun teks sesuai keinginan pengelolanya. Dengan demikian seorang pengguna internet tidak dapat melihat kode program yang ditulis dalam PHP, sehingga keamanan dari halaman web menjadi lebih terjamin. Ketika belajar PHP, secara otomatis kita juga akan belajar tentang teori dasar PHP. Mari kita simak uraian tentang Teori Dasar PHP:
+
+Hampir seluruh aplikasi berbasis web bisa dibuat dengan PHP. Oleh karena itu PHP mendukung komunikasi dengan layanan lain melalui protokol IMAP, SNMP, NNTP, POP3 serta tentu saja HTTP.
+PHP bisa juga difungsikan sebagai modul pada web server Apache, serta sebagai binary yang dapat berjalan sebagai CGI.
+PHP juga bisa melakukan pengiriman HTTP Header. Kemampuan lain yang dimiliki PHP juga bisa untuk mengakses cookies, mengatur authentication serta melakukan redirect user.
+Anda sebagai pengelola web bisa secara dinamis melakukan banyak hal, misalnya membuat dokumen PDF atau memparse XML. Ini disebabkan PHP yang berkemampuan berintegrasi dengan sejumlah library eksternal.
+Terdapat beragam cara penulisan script PHP, misalnya untuk memulainya, kita bisa menuliskan kode-kode sebagai berikut:
